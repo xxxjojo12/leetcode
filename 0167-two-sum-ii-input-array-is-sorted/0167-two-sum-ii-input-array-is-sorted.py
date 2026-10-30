@@ -4,10 +4,10 @@ class Solution:
         r = len(numbers) - 1
         
         while l < r:
-            sub = target - numbers[r]
-            if sub == numbers[l]:
+            cur_sum = numbers[l] + numbers[r]
+            if cur_sum == target:
                 return [l + 1, r + 1]
-            if sub > numbers[l]:
+            elif cur_sum < target:
                 l += 1
-            elif sub < numbers[l]:
+            else:
                 r -= 1
