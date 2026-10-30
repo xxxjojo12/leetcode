@@ -13,6 +13,7 @@ Daily LeetCode practice for coding interviews (Python)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/xxxjojo12/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/xxxjojo12/leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -28,4 +29,12 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/xxxjojo12/leetcode/tree/master/0015-3sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/xxxjojo12/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/xxxjojo12/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
