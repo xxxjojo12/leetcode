@@ -34,6 +34,7 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/xxxjojo12/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/xxxjojo12/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
@@ -43,4 +44,8 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/xxxjojo12/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
