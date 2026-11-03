@@ -21,6 +21,7 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/xxxjojo12/leetcode/tree/master/0015-3sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/xxxjojo12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xxxjojo12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/xxxjojo12/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
@@ -50,4 +51,8 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/xxxjojo12/leetcode/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/xxxjojo12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
