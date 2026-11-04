@@ -25,6 +25,7 @@ Daily LeetCode practice for coding interviews (Python)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xxxjojo12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xxxjojo12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/xxxjojo12/leetcode/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/xxxjojo12/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
@@ -42,6 +43,7 @@ Daily LeetCode practice for coding interviews (Python)
 | [0020-valid-parentheses](https://github.com/xxxjojo12/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/xxxjojo12/leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/xxxjojo12/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
@@ -68,6 +70,7 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/xxxjojo12/leetcode/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -76,4 +79,8 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/xxxjojo12/leetcode/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
