@@ -27,11 +27,13 @@ Daily LeetCode practice for coding interviews (Python)
 | [0283-move-zeroes](https://github.com/xxxjojo12/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/xxxjojo12/leetcode/tree/master/0704-binary-search) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/xxxjojo12/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xxxjojo12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/xxxjojo12/leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
