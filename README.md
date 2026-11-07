@@ -15,6 +15,7 @@ Daily LeetCode practice for coding interviews (Python)
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/xxxjojo12/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/xxxjojo12/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/xxxjojo12/leetcode/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/xxxjojo12/leetcode/tree/master/1768-merge-strings-alternately) |
@@ -71,11 +72,13 @@ Daily LeetCode practice for coding interviews (Python)
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/xxxjojo12/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/xxxjojo12/leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/xxxjojo12/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/xxxjojo12/leetcode/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
