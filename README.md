@@ -29,6 +29,7 @@ Daily LeetCode practice for coding interviews (Python)
 | [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/xxxjojo12/leetcode/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/xxxjojo12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/xxxjojo12/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Binary Search
 |  |
@@ -88,4 +89,8 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/xxxjojo12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
