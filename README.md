@@ -31,6 +31,7 @@ Daily LeetCode practice for coding interviews (Python)
 | [0704-binary-search](https://github.com/xxxjojo12/leetcode/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/xxxjojo12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/xxxjojo12/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/xxxjojo12/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,11 +77,13 @@ Daily LeetCode practice for coding interviews (Python)
 | [0013-roman-to-integer](https://github.com/xxxjojo12/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/xxxjojo12/leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
+| [1512-number-of-good-pairs](https://github.com/xxxjojo12/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/xxxjojo12/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/xxxjojo12/leetcode/tree/master/0202-happy-number) |
+| [1512-number-of-good-pairs](https://github.com/xxxjojo12/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -93,4 +96,8 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/xxxjojo12/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/xxxjojo12/leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
