@@ -25,6 +25,7 @@ Daily LeetCode practice for coding interviews (Python)
 | [0015-3sum](https://github.com/xxxjojo12/leetcode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xxxjojo12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xxxjojo12/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/xxxjojo12/leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/xxxjojo12/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/xxxjojo12/leetcode/tree/master/0682-baseball-game) |
@@ -41,6 +42,7 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/xxxjojo12/leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/xxxjojo12/leetcode/tree/master/0169-majority-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/xxxjojo12/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Stack
 |  |
@@ -75,6 +77,7 @@ Daily LeetCode practice for coding interviews (Python)
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/xxxjojo12/leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/xxxjojo12/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/xxxjojo12/leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/xxxjojo12/leetcode/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/xxxjojo12/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -99,5 +102,14 @@ Daily LeetCode practice for coding interviews (Python)
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/xxxjojo12/leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/xxxjojo12/leetcode/tree/master/1512-number-of-good-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/xxxjojo12/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/xxxjojo12/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
